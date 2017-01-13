@@ -126,6 +126,7 @@ Library
                      Foundation.Numerical.Floating
                      Foundation.IO.File
                      Foundation.IO.Terminal
+                     Foundation.IO.Terminal.ANSI
                      Foundation.Primitive.Types
                      Foundation.Primitive.Monad
                      Foundation.Primitive.Utils
